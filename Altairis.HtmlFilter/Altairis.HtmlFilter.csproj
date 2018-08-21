@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Michal Altair Valášek</Authors>
+    <Company>Altairis, s. r. o.</Company>
+    <Product />
+    <Description>Simple whitelist-based filter to filter HTML input to constructs deemed safe</Description>
+    <Copyright>Copyright (c) Michal A. Valášek - Altairis, 2018</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/ridercz/Altairis.HtmlFilter/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ridercz/Altairis.HtmlFilter</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/ridercz/Altairis.HtmlFilter/master/NuGet-64x64.png</PackageIconUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.7" />
+  </ItemGroup>
+
+</Project>
