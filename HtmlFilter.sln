@@ -1,11 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2003
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altairis.HtmlFilter", "Altairis.HtmlFilter\Altairis.HtmlFilter.csproj", "{6FDFD27C-A46E-4C47-8A28-C40C1EF2C8B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altairis.HtmlFilter", "Altairis.HtmlFilter\Altairis.HtmlFilter.csproj", "{6FDFD27C-A46E-4C47-8A28-C40C1EF2C8B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altairis.HtmlFilter.Test", "Altairis.HtmlFilter.Test\Altairis.HtmlFilter.Test.csproj", "{861FFB23-47FF-48EC-BA3E-12D9B900C792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altairis.HtmlFilter.Test", "Altairis.HtmlFilter.Test\Altairis.HtmlFilter.Test.csproj", "{861FFB23-47FF-48EC-BA3E-12D9B900C792}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFB753E5-8352-438F-83CC-924B085846E5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		NuGet-64x64.png = NuGet-64x64.png
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
