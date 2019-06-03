@@ -7,10 +7,13 @@
     <Company>Altairis, s. r. o.</Company>
     <Product />
     <Description>Simple whitelist-based filter to filter HTML input to constructs deemed safe</Description>
-    <Copyright>Copyright (c) Michal A. Valášek - Altairis, 2018</Copyright>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/ridercz/Altairis.HtmlFilter/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Copyright (c) Michal A. Valášek - Altairis, 2019</Copyright>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/ridercz/Altairis.HtmlFilter</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/ridercz/Altairis.HtmlFilter/master/NuGet-64x64.png</PackageIconUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ridercz/Altairis.HtmlFilter.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
